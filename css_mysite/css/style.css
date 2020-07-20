@@ -1,0 +1,40 @@
+.top-conatiner{
+    background-color: aliceblue;
+    position: relative;
+    padding-top: 100px;
+}
+body{
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    margin-top: 0;
+}
+.middle-container{ 
+    
+}
+.bottom-container{
+    
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.Middle-computer{
+    width: 25%;
+}
+.chille-image{
+    width: 25%;
+}
+
+
+
+}
